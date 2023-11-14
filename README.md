@@ -37,7 +37,7 @@ modules directly in python by skipping steps 1 and 2.__
 
 
 ## Screenshots.
-![Image alt](https://github.com/ArtemSova/Boring_Games/edit/main/Menu.png)
-![Image alt](https://github.com/ArtemSova/Boring_Games/edit/main/Tag.png)
-![Image alt](https://github.com/ArtemSova/Boring_Games/edit/main/Sudoku.png)
-![Image alt](https://github.com/ArtemSova/Boring_Games/edit/main/Tic_Tac_Toe.png)
+![Image alt](https://github.com/ArtemSova/Boring_Games/raw/main/Menu.png)
+![Image alt](https://github.com/ArtemSova/Boring_Games/raw/main/Tag.png)
+![Image alt](https://github.com/ArtemSova/Boring_Games/raw/main/Sudoku.png)
+![Image alt](https://github.com/ArtemSova/Boring_Games/raw/main/Tic_Tac_Toe.png)
